@@ -1,0 +1,14 @@
+"Hello World!" in C#
+// Hello World! program
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+    }
+}
+When you run the program, the output will be:
+
+Hello World!
